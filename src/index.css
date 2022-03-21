@@ -1,13 +1,27 @@
+h1{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  padding-bottom: 3%;
+  font-weight: bold;
+}
+
 body {
+  padding: 3% 22%;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.card{
+  padding-bottom: 8px;
+  margin-bottom: 25px;
+  border-radius: 80px;
 }
