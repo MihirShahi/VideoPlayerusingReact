@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import ShakaPlayer from 'shaka-player-react';
 import 'shaka-player/dist/controls.css';
@@ -43,11 +42,7 @@ function App() {
 
        
       </div>
-
-    <div className="footer">
-
-    </div>
-      
+   
     </div>
   );
 }
